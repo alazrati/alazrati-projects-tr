@@ -1,6 +1,6 @@
 # Alazrati Projects
 
-(English version: [English](https://github.com/alazrati/alazrati-projects/tree/main)
+(English version: [English](https://github.com/alazrati/alazrati-projects/tree/main))
 
 Merhaba, biz Alazrati Projects Team.
 
